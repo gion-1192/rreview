@@ -29,7 +29,7 @@ RReview.get(url, 取得したいレビューの数)
 ```
 
 成功したら、ショップならRReview::ShopReview、商品ならRReview::ItemReviewクラスの
-入った配列が帰ってくる。
+入った配列が帰ってくる。  
 レビューの各項目をプロパティから取得
 
 例)レビュー内容の表示
@@ -47,7 +47,7 @@ content = review[0].content
   content レビュー内容  
   date レビュー記入日  
   point_details レビュー点数の詳細  
-    assortment 品揃え  
+  assortment 品揃え  
     information_volume 情報量  
     payment_method 決済方法  
     staff_response スタッフの応対  
