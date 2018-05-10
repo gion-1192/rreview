@@ -40,32 +40,32 @@ content = review[0].content
 
 現在実装済みの項目は下記の通り。
 
-*ショップレビュー  
-  *user_icon ユーザーアイコン  
-  *user_name レビューユーザーの名前  
-  *average_point レビューの点数  
-  *content レビュー内容  
-  *date レビュー記入日  
-  *point_details レビュー点数の詳細  
-  *assortment 品揃え  
-    *information_volume 情報量  
-    *payment_method 決済方法  
-    *staff_response スタッフの応対  
-    *packing 梱包  
-    *delivery 配送  
-  *review_item レビューした商品  
-  *review_item_img レビューした商品の画像  
+* ショップレビュー  
+  * user_icon ユーザーアイコン  
+  * user_name レビューユーザーの名前  
+  * average_point レビューの点数  
+  * content レビュー内容  
+  * date レビュー記入日  
+  * point_details レビュー点数の詳細  
+  * assortment 品揃え  
+    * information_volume 情報量  
+    * payment_method 決済方法  
+    * staff_response スタッフの応対  
+    * packing 梱包  
+    * delivery 配送  
+  * review_item レビューした商品  
+  * review_item_img レビューした商品の画像  
 
-* 商品レビュー  
-　*user_icon ユーザーアイコン  
-　*user_name レビューユーザーの名前  
-　*average_point レビューの点数  
-　*content レビュー内容  
-　*date レビュー記入日  
-　*use_info レビューの詳細  
-  　*usage 使い道  
-  　*employer 使用者  
-  　*used_number 購入回数  
+*  商品レビュー  
+　* user_icon ユーザーアイコン  
+　* user_name レビューユーザーの名前  
+　* average_point レビューの点数  
+　* content レビュー内容  
+　* date レビュー記入日  
+　* use_info レビューの詳細  
+  　* usage 使い道  
+  　* employer 使用者  
+  　* used_number 購入回数  
 
 ## Development
 
