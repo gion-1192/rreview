@@ -1,3 +1,0 @@
-current directory: /Users/taka/Documents/ruby/r_review/vender/bundle/ruby/2.4.0/gems/nokogiri-1.8.2/ext/nokogiri
-/usr/local/opt/ruby/bin/ruby -r ./siteconf20180502-27602-1vcqscx.rb extconf.rb
-undefined method `success?' for nil:NilClass
