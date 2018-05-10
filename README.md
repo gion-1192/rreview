@@ -57,12 +57,12 @@ content = review[0].content
   * review_item_img レビューした商品の画像  
 
 *  商品レビュー  
-　* user_icon ユーザーアイコン  
-　* user_name レビューユーザーの名前  
-　* average_point レビューの点数  
-　* content レビュー内容  
-　* date レビュー記入日  
-　* use_info レビューの詳細  
+  * user_icon ユーザーアイコン  
+  * user_name レビューユーザーの名前  
+  * average_point レビューの点数  
+  * content レビュー内容  
+  * date レビュー記入日  
+  * use_info レビューの詳細  
     * usage 使い道  
     * employer 使用者  
     * used_number 購入回数  
