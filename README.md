@@ -56,7 +56,7 @@ content = review[0].content
   *review_item レビューした商品  
   *review_item_img レビューした商品の画像  
 
-*商品レビュー  
+* 商品レビュー  
 　*user_icon ユーザーアイコン  
 　*user_name レビューユーザーの名前  
 　*average_point レビューの点数  
